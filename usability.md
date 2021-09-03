@@ -23,16 +23,16 @@ How pleasant is the use of the design?
 
 One of the most popular series of heuristics are Jakob Nielsen’s, published in 1994 in the book “Usability Inspection Methods” by Jakob Nielsen and Robert L. Mack. They were a refinemend of an earlier set of heuristics by Nielsen and Molich --  a danish IDer. Molich maintains a list of the Nielsen heuristics with examples that is very clear and easy to read [Molich].
 
-1. [Visibility of system status](./usability_examples/status.md)
-2. Match between system and the real world
-3. User control and freedom
-4. Consistency and standards
-5. Error prevention
-6. Recognition rather than recall
-7. Flexibility and efficiency of use
-8. Aesthetic and minimalist design
-9. Help users recognize, diagnose, and recover from errors
-10. Help and documentation
+1. [Visibility of system status](./usability_examples/1_status.md)
+2. [Match between system and the real world](./usability_examples/2_match.md)
+3. [User control and freedom](./usability_examples/3_control.md)
+4. [Consistency and standards](./usability_examples/4_consistency.md)
+5. [Error prevention](./usability_examples/5_error.md)
+6. [Recognition rather than recall](./usability_examples/6_recognition.md)
+7. [Flexibility and efficiency of use](./usability_examples/7_flexibility.md)
+8. [Aesthetic and minimalist design](./usability_examples/8_aesthetics.md)
+9. [Help users recognize, diagnose, and recover from errors](./usability_examples/9_help.md)
+10. [Help and documentation](./usability_examples/10_documentation.md)
 
 ## Bibliography
 
