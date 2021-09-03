@@ -31,7 +31,7 @@ Now this does not mean that it's impossible. it just means that it is hard. And 
 
 Thus, we introduce the distinction between: *usefulness* and *usability* [Laundauer]: 
 
-* **usefulness** = value. To have something that is useful it requires understanding humans; and understanding their problems; their specific problems; and making sure that you fit in their workflow; and it is more important than usable; but it's also harder;
+* **usefulness** = value. To have something that is useful it requires understanding humans; and understanding their problems; their specific problems; and making sure that you fit in their workflow; and it is more important than usable; but it's also harder; 
 
 * **usability** means that the digital artifact is pleasant; and easy to use; not cumbersome; and not annoying to the user; and positive emotions in the user [Emotional Design, D. Norman]; some people consider usability to be an [excavator of usefulness](https://bitzesty.com/2014/05/15/usability-and-usefulness-in-ux-web-design/).
 
@@ -39,14 +39,15 @@ Note that sometimes, usability is just a nice to have thing; and other times it'
 ). The low usabilty of the plane that lead to the [death of John Denver](https://www.ntsb.gov/news/press-releases/Pages/NTSB_Determines_John_Denvers_Crash_Caused_by_Poor_Placement_of_Fuel_Selector_Handle_Diverting_His_Attention_During_Flight.aspx).  
 
 
-
 It seems that delivering something useful and usable are both important. But how to do that? 
+
+One good place to start from is knowing who your users are. Designing for the average user means frustrating most of the users. [The Flaw of the Averages](https://www.thestar.com/news/insight/2016/01/16/when-us-air-force-discovered-the-flaw-of-averages.html)
+
+Besides that you want to follow a process. And finally be aware of design principles.
 
 
 ## ID Processes 
 So you can imagine why many people would try to provide recipes for how to do Interaction Design the right way TM. And indeed, there are many processes for ID. 
-
-
 
  - Design Thinking [DT] - ideology asserts that a hands-on, user-centric approach to problem solving can lead to innovation. Process comprises 6 distinct phases. 
 
