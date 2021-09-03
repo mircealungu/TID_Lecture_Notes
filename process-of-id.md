@@ -29,7 +29,7 @@ Every year an incredible large number of products is created, and only a few of 
 
 Now this does not mean that it's impossible. it just means that it is hard. And if we think about what the successful products, they usually solve a problem. They offer us value. And then, in the category where there are many products that offer the same value, the ones that are more simple to use, or more pleasant to use, are preferred. 
 
-Thus, we introduce the distinction between: *usefulness* and *usability* [Laundauer, 95]: 
+Thus, we introduce the distinction between: *usefulness* and *usability* [Laundauer]: 
 
 * **usefulness** = value. To have something that is useful it requires understanding humans; and understanding their problems; their specific problems; and making sure that you fit in their workflow; and it is more important than usable; but it's also harder;
 
@@ -72,7 +72,7 @@ Different approaches put different emphasis on the different kinds of phases but
 
 ## References
 
-[ Laundauer 95 ] - The Trouble with Computers: Usefulness, Usability, and Productivity, Laundauer. [pp.141 -- 142](https://www.ics.uci.edu/~redmiles/ics227-SQ04/papers/Lan95.pdf). 
+[Laundauer] - The Trouble with Computers: Usefulness, Usability, and Productivity, Laundauer. [pp.141 -- 142](https://www.ics.uci.edu/~redmiles/ics227-SQ04/papers/Lan95.pdf). 
 
 [DT] [Design Thinking 101](https://www.nngroup.com/articles/design-thinking/), Sara Gibbons. 
 
