@@ -13,3 +13,8 @@ Miele Dishwasher lacks visibility of system status. It is not clear when it is r
 Elevator in the DR building does not tell me which floor it is on. It doesn't tell me if it's going up or down. Indeed, it is not even telling me which one is responding to me pressing the button!!! (I can tell by the sound that it is the right one.)
 
 ![](images/bjørn-elevator-status.jpg) 
+
+### Gina
+When someone deletes a message on WhatsApp that has already been sent, then the following message remains in the chat: “this message was deleted”. The other person is then left wondering what the message was. I believe it is pointless design to display the “this message was deleted” message instead of actually deleting the message and any traces of it. This design causes confusion and leaves the sender feel awkward about their choice. 
+
+![](images/gina-whatsApp.jpg) 
