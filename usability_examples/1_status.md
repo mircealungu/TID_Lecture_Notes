@@ -13,3 +13,8 @@ Miele Dishwasher lacks visibility of system status. It is not clear when it is r
 Elevator in the DR building does not tell me which floor it is on. It doesn't tell me if it's going up or down. Indeed, it is not even telling me which one is responding to me pressing the button!!! (I can tell by the sound that it is the right one.)
 
 ![](images/bjørn-elevator-status.jpg) 
+
+### Celine
+These two doors have the same handle, but somehow should the first door be pushed and the next door should be pulled. Nothing indicate that they should be opened in different ways. Both of them made me do the exact opposite - especially when I enter from the other side. I can't remember which door that should be pushed or pulled.
+
+![](images/celine-norman-door-status.jpg)
