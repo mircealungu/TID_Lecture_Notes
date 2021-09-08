@@ -4,3 +4,6 @@ Even though it is better if the system can be used without documentation, it may
 
 ## Examples
 
+### Gustav
+The only documentation for the stove/oven is the visual symbols at the front. It can be argued that this is enough due to the simplistic design. However, if something break internally in the stove the user will either need to have knowledge of how to fix ancient stoves or call a technichian to help troubleshoot the stove and fix the error.
+![](images/Gustav-Oven.jpg)
