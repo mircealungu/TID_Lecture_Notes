@@ -13,4 +13,4 @@ After very light use, the buttons on my toaster disappeared (they should have ma
 ### Elisabeth
 The entrance to DR Byen from Amagerfælledvej uses an overload of signs to guide the vehicles when arriving. The information is a bit misleading since the sign on the gate directs the vehicles to the left. That makes me wonder if you should choose another entrance? Yet, the arrow on the road guides the arrived vehicles to stay on the right side. Furthermore, does the sign with the red circle symbolize that you cannot enter here. If you got your binocular or spyglasses with you will see it says: “without special permission”. 
 
-![](images/Elisabeth-DR-Entrance-recognition.jpg)
+![](images/Elisabeth-DR-entrance-recognition.jpg)
