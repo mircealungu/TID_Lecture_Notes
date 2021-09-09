@@ -13,3 +13,12 @@ Miele Dishwasher lacks visibility of system status. It is not clear when it is r
 Elevator in the DR building does not tell me which floor it is on. It doesn't tell me if it's going up or down. Indeed, it is not even telling me which one is responding to me pressing the button!!! (I can tell by the sound that it is the right one.)
 
 ![](images/bjørn-elevator-status.jpg) 
+
+
+### Martin olsen (olse)
+Nice and simple this does tell us the temperature of the room sized fridge.. however, 6.5 seems a little high. Is it actively cooling, and should one refrain from entering?
+There are small icons, but they are too small to even identify. When zooming in, they become distinguishable, yet mean nothing to an unexperienced user, making this also fit into recognition. 
+lastly, a big red light is on.. what does that mean? is it connected to the switch right below, and signal the electricity is on? or is it actually to alert us that the rooms is in fact not on.
+
+![](images/Martin_walkin_fridge_status.jpeg) 
+
