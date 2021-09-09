@@ -4,3 +4,7 @@ Minimize the user’s memory load by making objects, actions, and options visibl
 
 ## Examples
 
+### Celine
+These two doors have the same handle, but somehow should the first door be pushed and the next door should be pulled. Nothing indicate that they should be opened in different ways. Both of them made me do the exact opposite - especially when I enter from the other side. I can't remember which door that should be pushed or pulled.
+
+![](images/celine-norman-door-status.jpg)
