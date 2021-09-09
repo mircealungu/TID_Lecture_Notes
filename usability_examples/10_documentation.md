@@ -4,3 +4,10 @@ Even though it is better if the system can be used without documentation, it may
 
 ## Examples
 
+### Piotrek
+Sorry, this is a funny one.
+But even with very visibled ocumentation 
+    (design and placement of it is questionable by itself)  
+        it doesn't help when the documentation is attached to a wrong design? (^-^)
+
+![](images/piotrek-russian_water_tap-doumentation.jpg)
