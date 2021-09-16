@@ -2,6 +2,12 @@
 
 Users should not have to wonder whether different words, situations, or actions mean the same thing. Follow platform conventions.
 
+When we talk about consistency and standards, what
+we mean is that words, situations, actions and
+affordances should mean the same thing across
+different elements within your app, and across
+multiple platforms. 
+
 ## Examples
 
 ### Vibeke
