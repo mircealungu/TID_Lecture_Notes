@@ -42,7 +42,6 @@ And also, this means that this kind of knowledge, will be useful for you for oth
 
 
 ### Hierarchy
-What: how important elements of a design appear in relation with one another
 
 Principles
 - Emphasize the important information
