@@ -44,7 +44,6 @@ And also, this means that this kind of knowledge, will be useful for you for oth
 
 ### Hierarchy
 
-Principles
 - Emphasize the important information
 - Emphasize by de-emphasizing
 - Separate visual hierarchy from document hierarchy
@@ -87,6 +86,15 @@ Principles
 - Right align numbers
 - Hyphen narrow justified text
 - Narrow justified text can be awkward
+
+
+## Design systems
+
+To make sure that a whole team is on the same page, one collects all the rules 
+regarding the above mentioned aspects of layoutn, color, typography, spacing, but also other project-wide conventions (like icons, layouts) 
+in a living document called a design system. 
+
+Some design systems are very popular: e.g. Fluent from Microsoft and 
 
 
 
