@@ -3,24 +3,24 @@
 
 ## Native UIs & Widgets
 
+
 There was a time when it seemed, for a little while, that UI design was solved.
-We had WIMP. We had native widgets. 
-We had cross-platform UI widget libraries: e.g. Qt, Swing for Java, Cocoa for OS X. 
+The UI developers had WIMP and had native widgets for various platforms. 
+Then cross-platform UI widget libraries appeared: e.g. C++/Qt, Tcl/Tk, Swing for Java.
 
-We had GUI builders. These were drag and drop interfaces in which you would create your windows with mouse drag-and-drop and then simply associate events to the various elements in the UI design. 
+Developers also had GUI builders. These were drag and drop interfaces in which you would create your windows with mouse drag-and-drop and then simply associate events to the various elements in the UI design. 
 
-We also had guidelines for how to create these native interfaces, like the most excellent and still relevant Apple [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/).
+They also had guidelines for how to create these native interfaces, like the most excellent and still relevant Apple [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/).
 
 
-## The Web
-And then the web happened. And everybody started doing their own widgets and designs, and programmers were free again to be creative. And we had Flash interactive-full-of-color-and-idiosyncracy websites. 
-
-In all this madness, there was clearly a need for a bit of order. Otherwise, if the interaction with every website needed to be "learned" nobody would use the web anymore. Slowly we started converging towards a set of web design principles. 
+## The Early Web
+And then the web happened. And everybody started doing their own widgets and designs, and programmers were free again to be creative. And then followed the age of interactive-full-of-color-and-animation websites made in Flash. They had zero accessibility but were creative. This idiosincracy resulted in the interaction with many new websites needing to be "learned". In all this chaos, some order was required. 
+Slowly the web developers started converging towards a set of web design principles. 
 
 
 ## Don't Make Users Think
 
-A first important step on the road to a bettre web was a little book, that appeared in 2000, entitled "Don't Make me Think" by S. Krug. It talked about web usability and about how a good software program or web site should let users accomplish their intended tasks as easily and directly as possible. 
+A first important step on the road to a better web was a little book, that appeared in 2000, entitled "Don't Make me Think" by S. Krug. It talked about web usability and about how a good software program or web site should let users accomplish their intended tasks as easily and directly as possible. 
 
 Krug observed that we're not reading web pages; we're *scanning* them. And we're scanning because we're busy. And we want to get something done. That was true back then; and it's just as true now. (In fact, if you think about it, it's also true about the way we look at posters; we scan them, we don't "read" them. )
 
@@ -94,16 +94,15 @@ To make sure that a whole team is on the same page, one collects all the rules
 regarding the above mentioned aspects of layoutn, color, typography, spacing, but also other project-wide conventions (like icons, layouts) 
 in a living document called a design system. 
 
-Some design systems are very popular: e.g. Fluent from Microsoft and 
+Some design systems are very popular: e.g. Fluent from Microsoft, Material from Google. 
 
 
 
 # Further Reading
 
-The Dieter Rams 10 principles of good design - https://www.vitsoe.com/eu/about/good-design
-
-[Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/).
-
+- [Dieter Rams: the 10 principles of good design](https://www.vitsoe.com/eu/about/good-design) - for the reader who is curious about principles of design in general.
+- [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/) - even if specific for OS X incredibly well written; the web designer can still learn from it
+- [Mailchimp Pattern Library](http://ux.mailchimp.com/patterns/helpers) - a good example of how a design system for a product can look.
 
 
 
