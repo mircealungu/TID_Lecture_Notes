@@ -4,7 +4,8 @@
 ## Native UIs & Widgets
 
 There was a time when it seemed, for a little while, that UI design was solved.
-We had WIMP. We had native widgets. We had cross-platform UI widget libraries: e.g. Qt, Swing for Java. 
+We had WIMP. We had native widgets. 
+We had cross-platform UI widget libraries: e.g. Qt, Swing for Java, Cocoa for OS X. 
 
 We had GUI builders. These were drag and drop interfaces in which you would create your windows with mouse drag-and-drop and then simply associate events to the various elements in the UI design. 
 
