@@ -90,10 +90,11 @@ Principles
 
 
 
-
 # Further Reading
 
 The Dieter Rams 10 principles of good design - https://www.vitsoe.com/eu/about/good-design
+
+[Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/).
 
 
 
