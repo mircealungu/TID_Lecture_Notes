@@ -6,7 +6,10 @@
 There was a time when it seemed, for a little while, that UI design was solved.
 We had WIMP. We had native widgets. We had cross-platform UI widget libraries: e.g. Qt, Swing for Java. 
 
-We had GUI builders. These were drag and drop interfaces in which you would create your windows and associate events to the various elements in the UI design. 
+We had GUI builders. These were drag and drop interfaces in which you would create your windows with mouse drag-and-drop and then simply associate events to the various elements in the UI design. 
+
+We also had guidelines for how to create these native interfaces, like the most excellent and still relevant Apple [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/).
+
 
 ## The Web
 And then the web happened. And everybody started doing their own widgets and designs, and programmers were free again to be creative. And we had Flash interactive-full-of-color-and-idiosyncracy websites. 
@@ -72,6 +75,7 @@ Principles
 - Ensure sufficient contrast
 - Never convey info only through color
 
+
 ### Typography
 - Optimize for legibility
 - Predefine a good scale for your text
@@ -91,9 +95,7 @@ Principles
 
 The Dieter Rams 10 principles of good design - https://www.vitsoe.com/eu/about/good-design
 
-Advanced Principles
-- Don't let lightness kill your saturation
-- 
+
 
 
 
