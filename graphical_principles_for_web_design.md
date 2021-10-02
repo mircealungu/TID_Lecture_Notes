@@ -103,7 +103,4 @@ Some design systems are very popular: e.g. Fluent from Microsoft, Material from 
 - [Dieter Rams: the 10 principles of good design](https://www.vitsoe.com/eu/about/good-design) - for the reader who is curious about principles of design in general.
 - [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/) - even if specific for OS X incredibly well written; the web designer can still learn from it
 - [Mailchimp Pattern Library](http://ux.mailchimp.com/patterns/helpers) - a good example of how a design system for a product can look.
-
-
-
-
+- https://blog.adobe.com/en/publish/2017/11/29/prototyping-difference-low-fidelity-high-fidelity-prototypes-use.html#gs.bwzcw2 - a good overview of prototyping, types, and why we need them
