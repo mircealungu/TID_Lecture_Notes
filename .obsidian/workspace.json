@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/1.a) Interaction Design.md",
+                "file": "Lectures/2.a) Usability.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/1.a) Interaction Design.md",
+                "file": "Lectures/2.a) Usability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/1.a) Interaction Design.md",
+                "file": "Lectures/2.a) Usability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/1.a) Interaction Design.md"
+                "file": "Lectures/2.a) Usability.md"
               }
             }
           }
@@ -146,14 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "037ccf612639c4c9",
+  "active": "e1410fff905b7a77",
   "lastOpenFiles": [
+    "Lectures/usability_examples/1_status.md",
     "Lectures/2.a) Usability.md",
     "Lectures/1.a) Interaction Design.md",
+    "Lectures/2. Usability",
+    "Lectures/2. Usability/2.a) Usability.md",
     "Topics.md",
     "Curriculum 2023.md",
     "Lectures/graphical_principles_for_web_design.md",
-    "Lectures/usability_examples/1_status.md",
     "Lectures/usability_examples/2_match.md",
     "Lectures",
     "README.md",
