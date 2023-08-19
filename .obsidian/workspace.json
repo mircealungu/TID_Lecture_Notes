@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "c0244e177a8029b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cfd5518e1fa001c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1410fff905b7a77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/1.a) Interaction Design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "663bc028be6fe114",
+    "type": "split",
+    "children": [
+      {
+        "id": "afdf569e50104076",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "037ccf612639c4c9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "979d063d3d87bb26",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5ed815ad075c314c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0304d65ade7c13a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ea9e97fa8b20ea8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e2c8b47d2439e2c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lectures/1.a) Interaction Design.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6bcb87da2efaa214",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lectures/1.a) Interaction Design.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1190ba52939bcf47",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2465f013b77cc5e8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lectures/1.a) Interaction Design.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "037ccf612639c4c9",
+  "lastOpenFiles": [
+    "Lectures/2.a) Usability.md",
+    "Lectures/1.a) Interaction Design.md",
+    "Topics.md",
+    "Curriculum 2023.md",
+    "Lectures/graphical_principles_for_web_design.md",
+    "Lectures/usability_examples/1_status.md",
+    "Lectures/usability_examples/2_match.md",
+    "Lectures",
+    "README.md",
+    "Interaction.md"
+  ]
+}

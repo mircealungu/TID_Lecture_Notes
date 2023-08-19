@@ -1,3 +1,4 @@
-# TID 2021
+# Technical Interaction Design
 
-A repository for Mircea's handwritten lecture notes for the TID 2021 course at ITU
+Lecture notes for the TID course at ITU.
+
