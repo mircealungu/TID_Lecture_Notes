@@ -12,7 +12,7 @@ To decide about their project:
 - web-first? 
 
 
-1. **[[1.a) Interaction Design]]**
+1. **[[1. Interaction Design]]**
 	- Introduce the process
 	- Present all the parts focusing on those not addressed in the upcoming lectures
 	- Introduce project topic
@@ -98,7 +98,7 @@ To decide about their project:
 
 
 
-8. [[2.b) Usability]] (Where does this fit? ) - guest lecture? 
+8. [[3. Usability]] (Where does this fit? ) - guest lecture? 
 	- examples
 	- principles
 	- heuristics
