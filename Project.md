@@ -1,5 +1,10 @@
 
-## Project 1: A Special nostr Client
+## Project 0: A Messaging Client
+- can you reimplement a variation of WhatsApp for a special audience?
+
+
+
+## Project 1: A Social Media Website with Nostr
 
 Implement a `nostr` client for communication with your fellow TID students.
 
