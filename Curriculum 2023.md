@@ -98,7 +98,7 @@ To decide about their project:
 
 
 
-8. [[3. Usability]] (Where does this fit? ) - guest lecture? 
+8. [[4. Usability]] (Where does this fit? ) - guest lecture? 
 	- examples
 	- principles
 	- heuristics
