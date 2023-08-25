@@ -1,4 +1,6 @@
 
+
+
 # CSS 
 ## General
 
@@ -45,7 +47,9 @@ nav > ul > li:not(:target):not(:hover) > ul {
 <footer>
 ```
 
-
+## Nice to know
+- Units of measure: vh -viewport height, rem - basic l, px, 
+- [CSS Variables](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties) - also from Mozilla
 ## Layouts
 - Mozilla Forum with "Assessment wanteds": https://discourse.mozilla.org/t/assessment-wanted-for-structuring-a-page-of-content-mdns/122098 -- an opportunity for finding assignments
 
