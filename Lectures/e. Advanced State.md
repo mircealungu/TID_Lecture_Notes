@@ -1,4 +1,4 @@
 
-- context
-- redux
+- Context
+- Redux
 

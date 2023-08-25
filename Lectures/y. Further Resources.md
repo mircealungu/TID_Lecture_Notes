@@ -1,33 +1,8 @@
 
+# CSS 
+## General
 
-Resources
-- Mozilla Forum with "Assessment wanteds": https://discourse.mozilla.org/t/assessment-wanted-for-structuring-a-page-of-content-mdns/122098 -- an opportunity for finding assignments
-
-
-
-CSS differences:
-- https://css-tricks.com/whats-the-difference/
-- 
-
-Reference to have handy:
-- [CSS Selector Reference](https://www.w3schools.com/cssref/css_selectors.php) 
-	- NOTE: > selects direct children while " " selects descendants ...
-	- thus, because " " selects descendants, "element [property] does not work; you have to set it to element[property]"
-	- Interactive Selectors: https://www.w3schools.com/cssref/trysel.php
-
-
-
-
-
-
-
-**Interesting** 
-- [HTML5 specific tags](https://www.geeksforgeeks.org/html5-new-tags/) including `<article>` and `<nav>`
-- [Custom tags](https://matthewjamestaylor.com/custom-tags) 
-- `rem` vs. `em` - [an article](https://blog.logrocket.com/using-em-vs-rem-css/) - one is relative to the root font size of the page, the other to the current font
-
-
-Must understand something like the definition below ([source](https://www.w3.org/TR/css-flexbox-1/#visibility-collapse)):
+One must understand something like the definition below ([source](https://www.w3.org/TR/css-flexbox-1/#visibility-collapse)):
 ```
 @media (min-width: 60em) {
   /* [two column layout only when enough room](https://www.w3.org/TR/css3-mediaqueries/#width) (relative to default text size) */
@@ -69,4 +44,15 @@ nav > ul > li:not(:target):not(:hover) > ul {
 </div>
 <footer>
 ```
+
+
+## Layouts
+- Mozilla Forum with "Assessment wanteds": https://discourse.mozilla.org/t/assessment-wanted-for-structuring-a-page-of-content-mdns/122098 -- an opportunity for finding assignments
+
+
+# HTML
+- [HTML5 specific tags](https://www.geeksforgeeks.org/html5-new-tags/) including `<article>` and `<nav>`
+- [Custom tags](https://matthewjamestaylor.com/custom-tags) 
+- `rem` vs. `em` - [an article](https://blog.logrocket.com/using-em-vs-rem-css/) - one is relative to the root font size of the page, the other to the current font
+
 
