@@ -1,8 +1,8 @@
 ### Week 1 (Sept 31)
 Lecture
 - Course Overview (1h)
-- [[Lectures/1. Interaction Design|1. Interaction Design]] (1h)
-- [[Lectures/x. Javascript - A Brief Journey#Grammar & Types|x. Javascript - Grammar and Types]] (1h)
+- [1. Interaction Design](Lectures/1.%20Interaction%20Design.md)
+- [Javascript - A Brief Journey](Lectures/x.%20Javascript%20-%20A%20Brief%20Journey.md#Grammar%20&%20Types)
 Project Work
 - Group formation
 - Defining target group
