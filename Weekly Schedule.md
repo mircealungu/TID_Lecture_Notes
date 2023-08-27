@@ -1,6 +1,5 @@
 # Week 1 (Sept 31)
 
-Topics: 
 - **Course Overview** (½h). 
 - **[Interaction Design](Lectures/1.%20Interaction%20Design.md)** (1h). 
 - **[Usefulness](Lectures/2.%20Usefulness.md)** (½h)
@@ -8,7 +7,6 @@ Topics:
 Project: Group formation. Defining target user group. Empathy - understanding users
 
 # Week 2 (Sept 7)
-Topics: 
 - **[Prototyping](Lectures/3.%20Prototyping.md)** (1h).  
 - **Wireframing. Brief intro to Figma** (1h)
 
@@ -17,7 +15,6 @@ Exercises: Basics of Javascript
 Project: Continue user understanding. Design Lo-Fi Prototype
 
 ## Week #3 (Sept 14)
-Topics:
 - [**Usability**](Lectures/4.%20Usability.md)
 
 Exercises: Asynchronous Programming in JS
