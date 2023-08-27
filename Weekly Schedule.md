@@ -6,7 +6,7 @@
 
 Project Work
 - Group formation
-- Defining target group
+- Defining target user group
 - Empathy Work - Understand Users
 
 ### Week 2 (Sept 7)
