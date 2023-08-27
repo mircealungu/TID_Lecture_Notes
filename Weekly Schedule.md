@@ -7,7 +7,7 @@ Exercises: [Javascript - The Very Basics](Lectures/x.%20Javascript%20-%20A%20Bri
 Project Work: Group formation. Defining target user group. Empathy - understanding users
 
 ## Week 2 (Sept 7)
-Lecture: [Prototyping](Lectures/3.%20Prototyping.md) (1h). 
+[Prototyping](Lectures/3.%20Prototyping.md) (1h).  
 Brief intro to wireframing with Figma (1h)
 
 Exercises: [Javascript: Asynchronous Programming](Lectures/x.%20Javascript%20-%20A%20Brief%20Journey.md)
