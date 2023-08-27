@@ -2,7 +2,8 @@
 Lecture
 - Course Overview (1h)
 - [1. Interaction Design](Lectures/1.%20Interaction%20Design.md)
-- [Javascript - A Brief Journey](Lectures/x.%20Javascript%20-%20A%20Brief%20Journey.md#Grammar%20&%20Types)
+- [Javascript - A Brief Journey](Lectures/x.%20Javascript%20-%20A%20Brief%20Journey.md)
+
 Project Work
 - Group formation
 - Defining target group
