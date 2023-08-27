@@ -4,15 +4,15 @@
 - **[Interaction Design](Lectures/1.%20Interaction%20Design.md)** (1h). 
 - **[Usefulness](Lectures/2.%20Usefulness.md)** (½h)
 
-Exercises: Javascript - The Very Basics
+<small>Exercises</small>: Basics of Javascript
 
-Project: Group formation. Defining target user group. Empathy - understanding users
+<small>Project</small>: Group formation. Defining target user group. Empathy - understanding users
 
 ## Week 2 (Sept 7)
 - **[Prototyping](Lectures/3.%20Prototyping.md)** (1h).  
 - **Wireframing. Brief intro to Figma** (1h)
 
-Exercises: Javascript: Asynchronous Programming
+Exercises: Asynchronous Programming in JS
 
 Project: Continue user understanding. Design Lo-Fi Prototype
 
@@ -26,7 +26,7 @@ Project: Evaluate usability of Lo-Fi prototype
 
 - **[Graphical Design for the Web (1) - Layouting. Layouts with CSS**.](Lectures/5.%20Graphical%20Design%20for%20the%20Web%20(1)%20-%20Layouting.%20Layouts%20with%20CSS..md)
 
-Exercises: CSS Layouting: Box Model, Flexbox, Grid
+Exercises: CSS Layouting
 
 Project: Port design to HTML+CSS
 
