@@ -1,7 +1,7 @@
 # Week 1 (Sept 31)
 
-- **Course Overview** (½h). 
-- **[Interaction Design](Lectures/1.%20Interaction%20Design.md)** (1h). 
+- **Course Overview** (1h). 
+- **[Interaction Design](Lectures/1.%20Interaction%20Design.md)** (½h). 
 - **[Usefulness](Lectures/2.%20Usefulness.md)** (½h)
 
 Project: Group formation. Defining target user group. Empathy - understanding users
