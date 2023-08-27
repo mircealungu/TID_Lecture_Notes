@@ -1,5 +1,4 @@
 ### Week 1 (Sept 31)
-Lecture
 - Course Overview (1h)
 - [1. Interaction Design](Lectures/1.%20Interaction%20Design.md) (1h)
 - [Javascript - Grammar and Types](Lectures/x.%20Javascript%20-%20A%20Brief%20Journey.md) (1h of exercises)
@@ -9,7 +8,6 @@ Project Work
 - Defining target group
 
 ### Week 2 (Sept 7)
-Lecture
 - [2. Usefulness](Lectures/2.%20Usefulness.md) (1h)
 - [3. Prototyping](Lectures/3.%20Prototyping.md) (1h)
 - Brief intro to wireframing with Figma (1h)
@@ -19,7 +17,6 @@ Project Work
 - Design Lo-Fi Prototype
 
 ### Week #3 (Sept 14)
-Lecture
 - [4. Usability](Lectures/4.%20Usability.md)
 - [Javascript: Asynchronous Programming](Lectures/x.%20Javascript%20-%20A%20Brief%20Journey.md) (1h)
 
@@ -28,15 +25,16 @@ Project Work
 
 
 ### Week #4 (Sept 21)
-Lecture (Mircea board meeting)
+(Mircea board meeting)
 - 
 
 
 ### Week 5 (Sept 28)
-Lecture
 - Graphical Design for the Web (1)
 - CSS Layouting
 
 ### Week 6 (Oct 5)
-Lecture (Mircea away)
+(Mircea away)
 - Graphical Design for the Web (2)
+
+Week 7 (Oct )
