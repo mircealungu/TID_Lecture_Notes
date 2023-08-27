@@ -6,6 +6,8 @@
 
 Project: Group formation. Defining target user group. Empathy - understanding users
 
+Individual Work: Read Basics of JS.
+
 # Week 2 (Sept 7)
 - **[Prototyping](Lectures/3.%20Prototyping.md)** (1h).  
 - **Wireframing. Brief intro to Figma** (1h)
