@@ -30,6 +30,8 @@ Project Work
 ### Week #4 (Sept 21)
 (Mircea board meeting)
 - [Graphical Design for the Web (1) - Layouting. Layouts with CSS.](Lectures/5.%20Graphical%20Design%20for%20the%20Web%20(1)%20-%20Layouting.%20Layouts%20with%20CSS..md)
+
+Exercises
 - CSS Layouting: Box Model, Flexbox, Grid
 
 Project Work
