@@ -1,10 +1,12 @@
-### Week 1 (Sept 31)
+## Week 1 (Sept 31)
 
-- Lecture: Course Overview (30min). [Interaction Design](Lectures/1.%20Interaction%20Design.md) (1h). [Usefulness](Lectures/2.%20Usefulness.md) (1h)
-- Exercises: [Javascript - The Very Basics](Lectures/x.%20Javascript%20-%20A%20Brief%20Journey.md)
-- Project Work: Group formation. Defining target user group. Empathy - understanding users
+Course Overview (30min). [Interaction Design](Lectures/1.%20Interaction%20Design.md) (1h). [Usefulness](Lectures/2.%20Usefulness.md) (1h)
 
-### Week 2 (Sept 7)
+Exercises: [Javascript - The Very Basics](Lectures/x.%20Javascript%20-%20A%20Brief%20Journey.md)
+
+Project Work: Group formation. Defining target user group. Empathy - understanding users
+
+## Week 2 (Sept 7)
 Lecture: [Prototyping](Lectures/3.%20Prototyping.md) (1h). 
 Brief intro to wireframing with Figma (1h)
 
@@ -12,11 +14,10 @@ Exercises: [Javascript: Asynchronous Programming](Lectures/x.%20Javascript%20-%2
 
 Project Work: Design Lo-Fi Prototype
 
-### Week #3 (Sept 14)
-- [Usability](Lectures/4.%20Usability.md)
+## Week #3 (Sept 14)
+[Usability](Lectures/4.%20Usability.md)
 
-Project Work
-- Evaluate usability of Lo-Fi prototype 
+Project Work: Evaluate usability of Lo-Fi prototype 
 
 ### Week #4 (Sept 21)
 (Mircea board meeting)
