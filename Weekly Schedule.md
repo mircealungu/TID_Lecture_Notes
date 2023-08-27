@@ -22,7 +22,7 @@ Project: Continue user understanding. Design Lo-Fi Prototype
 Project: Evaluate usability of Lo-Fi prototype 
 
 ### Week #4 (Sept 21)
-(Mircea board meeting)
+<small>(Mircea board meeting)</small>
 
 - [Graphical Design for the Web (1) - Layouting. Layouts with CSS.](Lectures/5.%20Graphical%20Design%20for%20the%20Web%20(1)%20-%20Layouting.%20Layouts%20with%20CSS..md)
 
@@ -36,7 +36,7 @@ Project: Port design to HTML+CSS
 Project: Start porting design to React
 
 ### Week 6 (Oct 5)
-(Mircea VISSOFT)
+<small>(Mircea VISSOFT)</small>
 
 - [Graphical Design for the Web (2) - The Details. Colors. Typography.](Lectures/6.%20Graphical%20Design%20for%20the%20Web%20(2)%20-%20The%20Details.%20Colors.%20Typography..md)
 
