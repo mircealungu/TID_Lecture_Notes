@@ -5,14 +5,12 @@
 - Project Work: Group formation. Defining target user group. Empathy - understanding users
 
 ### Week 2 (Sept 7)
-- [Prototyping](Lectures/3.%20Prototyping.md) (1h)
-- Brief intro to wireframing with Figma (1h)
+Lecture: [Prototyping](Lectures/3.%20Prototyping.md) (1h). 
+Brief intro to wireframing with Figma (1h)
 
-Exercises
-- [Javascript: Asynchronous Programming](Lectures/x.%20Javascript%20-%20A%20Brief%20Journey.md)
+Exercises: [Javascript: Asynchronous Programming](Lectures/x.%20Javascript%20-%20A%20Brief%20Journey.md)
 
-Project Work
-- Design Lo-Fi Prototype
+Project Work: Design Lo-Fi Prototype
 
 ### Week #3 (Sept 14)
 - [Usability](Lectures/4.%20Usability.md)
