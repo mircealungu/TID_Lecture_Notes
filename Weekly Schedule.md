@@ -1,8 +1,8 @@
 ## Week 1 (Sept 31)
 
-- Course Overview (30min). 
+- Course Overview (½h). 
 - [Interaction Design](Lectures/1.%20Interaction%20Design.md) (1h). 
-- [Usefulness](Lectures/2.%20Usefulness.md) (1h)
+- [Usefulness](Lectures/2.%20Usefulness.md) (½h)
 
 Exercises: [Javascript - The Very Basics](Lectures/x.%20Javascript%20-%20A%20Brief%20Journey.md)
 
