@@ -14,7 +14,7 @@ Project: Group formation. Defining target user group. Empathy - understanding us
 
 Exercises: [Javascript: Asynchronous Programming](Lectures/x.%20Javascript%20-%20A%20Brief%20Journey.md)
 
-Project: Design Lo-Fi Prototype
+Project: Continue user understanding. Design Lo-Fi Prototype
 
 ## Week #3 (Sept 14)
 - [Usability](Lectures/4.%20Usability.md)
