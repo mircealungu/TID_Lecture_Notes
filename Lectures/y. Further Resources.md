@@ -60,3 +60,8 @@ nav > ul > li:not(:target):not(:hover) > ul {
 - `rem` vs. `em` - [an article](https://blog.logrocket.com/using-em-vs-rem-css/) - one is relative to the root font size of the page, the other to the current font
 
 
+
+# JS Must Know
+- [Template Literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals) (only up to nesting templates; that is too advanced and rarely needed)
+# Advanced React Bits
+- [async/await in useEffect](https://ultimatecourses.com/blog/using-async-await-inside-react-use-effect-hook)
