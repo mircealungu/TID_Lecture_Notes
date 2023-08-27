@@ -4,7 +4,7 @@
 - **[Interaction Design](Lectures/1.%20Interaction%20Design.md)** (1h). 
 - **[Usefulness](Lectures/2.%20Usefulness.md)** (½h)
 
-Exercises: [Javascript - The Very Basics](Lectures/x.%20Javascript%20-%20A%20Brief%20Journey.md)
+Exercises: Javascript - The Very Basics
 
 Project: Group formation. Defining target user group. Empathy - understanding users
 
@@ -12,7 +12,7 @@ Project: Group formation. Defining target user group. Empathy - understanding us
 - **[Prototyping](Lectures/3.%20Prototyping.md)** (1h).  
 - **Wireframing. Brief intro to Figma** (1h)
 
-Exercises: [Javascript: Asynchronous Programming](Lectures/x.%20Javascript%20-%20A%20Brief%20Journey.md)
+Exercises: Javascript: Asynchronous Programming
 
 Project: Continue user understanding. Design Lo-Fi Prototype
 
