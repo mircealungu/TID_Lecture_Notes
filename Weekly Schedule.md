@@ -7,7 +7,7 @@
 Project Work
 - Group formation
 - Defining target user group
-- Empathy Work - Understand Users
+- Empathy - understanding users
 
 ### Week 2 (Sept 7)
 - [3. Prototyping](Lectures/3.%20Prototyping.md) (1h)
