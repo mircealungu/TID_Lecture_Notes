@@ -1,15 +1,8 @@
 ### Week 1 (Sept 31)
-- Course Overview (30min)
-- [Interaction Design](Lectures/1.%20Interaction%20Design.md) (1h)
-- [Usefulness](Lectures/2.%20Usefulness.md) (1h)
 
-Exercises
-- [Javascript - The Very Basics](Lectures/x.%20Javascript%20-%20A%20Brief%20Journey.md)
-
-Project Work
-- Group formation
-- Defining target user group
-- Empathy - understanding users
+- Lecture: Course Overview (30min). [Interaction Design](Lectures/1.%20Interaction%20Design.md) (1h). [Usefulness](Lectures/2.%20Usefulness.md) (1h)
+- Exercises: [Javascript - The Very Basics](Lectures/x.%20Javascript%20-%20A%20Brief%20Journey.md)
+- Project Work: Group formation. Defining target user group. Empathy - understanding users
 
 ### Week 2 (Sept 7)
 - [Prototyping](Lectures/3.%20Prototyping.md) (1h)
