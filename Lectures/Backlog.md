@@ -19,7 +19,7 @@ Standing on the shoulders of giants
 
 CSS
 - [collapsing margins](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_box_model/Mastering_margin_collapsing) - quite a nitpick
-- 
+- [using rem instead of px](https://levelup.gitconnected.com/solving-all-css-layout-issues-any-screen-any-root-font-size-without-js-62349644a71e) -- quite a long article
 
 
 
