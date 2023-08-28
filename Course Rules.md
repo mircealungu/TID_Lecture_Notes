@@ -1,3 +1,8 @@
+# Literature
+- for the Javascript we will explain things and point you to MDN articles
+- for the React there will be the lecture notes complemented by online articles
+- for the ID parts - the lecture notes complemented by article references
+
 
 # Code
 - Project code should be hosted on GitHub (the public one, not the ITU internal)

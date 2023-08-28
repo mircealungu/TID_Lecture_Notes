@@ -33,7 +33,7 @@ Exercises: CSS Layouting
 Project: Port design to HTML+CSS
 
 ## Week 5 (Sept 28)
-- **[Component-Based Single Page Application Development... React.](Lectures/5.%20Component-Based%20Web%20App%20Development%20With%20React.md)**
+- **[Component-Based Single Page Application Development... React.](Lectures/5.%20React%20-%20An%20Intro%20to%20Component-Based%20Web%20App%20Development.md)**
 
 Project: Start porting design to React
 
