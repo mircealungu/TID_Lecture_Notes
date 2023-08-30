@@ -13,13 +13,15 @@ At its core, it allows cryptographically signed messages to be forwarded to othe
 
 You have to implement a `nostr` client for a specific type of user. 
 
-Examples of already existing `nostr` clients are: Damus, etc.
+There are already many existing `nostr` [clients](https://nostr.com/clients). 
 
 ## Project 2: A Centralized Social Sharing Website 
 
-This is pretty much your chance to reimplement Twitter. But better. And again, for a specific type of user that you decide. 
+This is pretty much your chance to reimplement a Twitter-like project, but better :) And just as in the previous themes, make sure that you have a very specific type of user in mind. 
 
-This version requires more backend work than the previous (nostr-based), because in this case you implement the data representation of your domain model with Parse.js -- a backend-as-a-service platform that makes it very easy to implement full-stack applications. Not to worry, we will show you how to implement the server. 
+This version gives you the chance to practice more backend work than the de-centralized version, because in this case you implement all the data representation of your domain model with Parse.js -- a backend-as-a-service platform that makes it very easy to implement full-stack applications. And do not worry, we will show you how to work with Parse.js. 
+
+
 
 
 

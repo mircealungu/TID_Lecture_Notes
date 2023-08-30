@@ -1,3 +1,4 @@
-- Source code as a design artefact
+- Source code as a design artifact
+
 - Heuristics for increasing maintainability and usability
 
