@@ -27,3 +27,43 @@ CSS
 
 Random Stuff
 - Why is it better to use an named function expression? [so discussion](https://stackoverflow.com/questions/15336347/why-use-named-function-expressions) 
+
+
+
+
+## Intermezzo: Semantic HTML
+
+Semantic HTML are a mew set of HTML tags that aim to be more expressive than just divs with classes ([article](https://www.freecodecamp.org/news/semantic-html5-elements/)).
+
+![](images/semantic_html.png)
+
+Compare the following two snippets:
+
+```text
+<div id="header"></div>
+<div class="section">
+	<div class="article">
+		<div class="figure">
+			<img>
+			<div class="figcaption"></div>
+		</div>
+	</div>
+</div>
+<div id="footer"></div>
+```
+
+vs. 
+
+```text
+<header></header>
+<section>
+	<article>
+		<figure>
+			<img>
+			<figcaption></figcaption>
+		</figure>
+	</article>
+</section>
+<footer></footer>
+```
+
